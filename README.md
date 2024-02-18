@@ -1,16 +1,12 @@
-### Hi there 👋
+```.json
 
-<!--
-**Kiihy/Kiihy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+{
+  "user": {
+    "username": "Caio",
+    "age": "19",
+    "location": "Salvador Bahia, Brasil",
+    "occupation": "Student and full-time programmer",
+    "hobby": "Programming languages, web development",
+    "socials": "https://www.instagram.com/Kiihy_/"
+  }
+}
